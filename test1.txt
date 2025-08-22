@@ -1,6 +1,11 @@
 string 1
+<<<<<<< HEAD
 string 9
+=======
+string 7
+>>>>>>> a153590e1ffdfe19a7babbf28c5a345711e06bf9
 string 3
 string 4
 string 5
 string 6
+string 8
