@@ -1,2 +1,0 @@
-# BootCamp
-repa for lesson
